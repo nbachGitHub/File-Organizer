@@ -37,7 +37,7 @@ DIRECTORIES = {
 #The path of the directory to be sorted
 #edit this to where you placed your test-file folder
 path = '/Users/test/github/File-Organizer/file-organizer 2/test-file'
-#Doing this in your starter code will allow you to organize the contents of the "test file" folder from the program you write :)
+#Doing this in your starter code will allow you to organize the contents of the "test-file" folder from the program you write :)
 
 #Creates a list with the filenames in the directory
 list_ = os.listdir(path)
